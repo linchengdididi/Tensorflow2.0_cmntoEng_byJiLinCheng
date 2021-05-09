@@ -1,4 +1,4 @@
-# 请读！
+# 请读！如果对您的学习有帮助麻烦给个Star收藏吧！
 # Tensorflow2.0_cmntoEng_byJiLinCheng  python3.7.9
 .py文件trans:西班牙语转英语  
 .py文件tranc:中文转英文  
@@ -15,6 +15,7 @@ Tensorflow2.0_seq2seq_attention  中转英
   （3）光跑Tensorflow2.0官网的西班牙转英语，不接"地气"，所以中文转英文对国内学子的印象会更深刻，更能提高国内学子对人工智能的兴趣。  
   
 显卡不佳，建议使Google Colab的GPU运行
+如果对您的学习有帮助麻烦给个Star收藏吧！！！
 我是萌新，杠精退散  
 学无止尽，无限进步  
 好好学习天天向上  
