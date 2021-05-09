@@ -1,4 +1,7 @@
-# Tensorflow2.0_cmntoEng_byJiLinCheng
+# 请读！
+# Tensorflow2.0_cmntoEng_byJiLinCheng  
+.py文件trans:西班牙语转英语  
+.py文件tranc:中文转英文  
 Tensorflow2.0_seq2seq_attention  中转英  
 1.为什么研究此中文转英文的Tensorflow2.0版本？  
   （1）Tensorflow2.0已面世很久，以CSDN为首的中国技术论坛的许多开源代码仍处于Tensorflow1.0的框架构成.  
@@ -11,6 +14,7 @@ Tensorflow2.0_seq2seq_attention  中转英
   （2）首先初涉翻译领域，有多种不同的网络结构，该仓库目前仅是用RNN的改良seq2seq供于学习。  
   （3）光跑Tensorflow2.0官网的西班牙转英语，不接"地气"，所以中文转英文对国内学子的印象会更深刻，更能提高国内学子对人工智能的兴趣。  
   
+显卡不佳，建议使Google Colab的GPU运行
 我是萌新，杠精退散  
 学无止尽，无限进步  
 好好学习天天向上  
