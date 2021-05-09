@@ -1,5 +1,5 @@
 # 请读！
-# Tensorflow2.0_cmntoEng_byJiLinCheng  
+# Tensorflow2.0_cmntoEng_byJiLinCheng  python3.7.9
 .py文件trans:西班牙语转英语  
 .py文件tranc:中文转英文  
 Tensorflow2.0_seq2seq_attention  中转英  
