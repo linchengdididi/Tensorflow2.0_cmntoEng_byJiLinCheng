@@ -14,8 +14,10 @@ import io
 import time
 
 # 下载文件
-
+#本地
 path_to_file = "D:/copy/pycharmWorkspace/ts/seq2seq_attention_trans/cmn-eng/cmn.txt"
+#上传到colab
+#path_to_file = "../content/sample_data/cmn.txt"
 
 
 # 将 unicode 文件转换为 ascii
