@@ -14,11 +14,11 @@ import io
 import time
 
 # 下载文件
-#本地
-path_to_file = "D:/copy/pycharmWorkspace/ts/seq2seq_attention_trans/cmn-eng/cmn.txt"
-#上传到colab
-#path_to_file = "../content/sample_data/cmn.txt"
 
+path_to_file = "D:/copy/pycharmWorkspace/ts/seq2seq_attention_trans/cmn-eng/cmn.txt"
+
+#找到文件地址，colab得先上传
+path_to_file = "../content/sample_data/cmn.txt"
 
 # 将 unicode 文件转换为 ascii
 def unicode_to_ascii(s):
@@ -92,7 +92,7 @@ def load_dataset(path, num_examples=None):
     target_tensor, targ_lang_tokenizer = tokenize(targ_lang)
 
     return input_tensor, target_tensor, inp_lang_tokenizer, targ_lang_tokenizer
-
+#sample_data
 
 # 尝试实验不同大小的数据集
 num_examples = 30000
