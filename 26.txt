@@ -1,0 +1,62 @@
+challenger		挑战者
+contender		竞争者 有力争夺者
+prediction		预测
+Stockholm	斯德哥尔摩
+preview	预览
+underdog		下等马 弱势的一方 不被看到的 
+wounded		受伤了的
+struggle 挣扎/发挥不好
+consistency 稳定发挥 
+inconsistency	发挥不稳定
+kit	钳子
+fade	渐变 
+force buy	强起
+hero rifle	英雄步枪
+lurker	静摸的自由人 
+clutch	残局
+flank	绕后 
+frag	击杀人头 
+key frag	关键击杀
+multi-frag	多杀 
+save	保枪 
+betray	背叛
+graffiti	涂鸦 
+ace	5杀！
+utility	道具
+armor	防弹衣 
+helmet	头盔 
+full armor	全甲
+push	推/前压
+HUD heads-up display 抬头显示 
+UI user interface	用户界面
+entry frag	破点击杀 
+double entry 破点双杀
+pop flash	瞬闪
+passive position 保守站位 
+aggressive position	前顶站位 
+double peek双拉
+flank 包抄
+observer OB 观看者
+observe	观看
+break the economy	打崩经济
+boost	双架
+timeout	暂停 
+xD 笑脸 
+lmao laughing my ass off 笑的屁股都掉了 
+lol laughing out loud	大声笑
+nt nice try 很好的尝试 
+stack	抱团 
+greedy	贪婪 贪枪
+technical timeout 技术暂停 
+tactical timeout 战术暂停
+comms	队内交流 
+rotation	转点/回防
+trade/refrag 补枪击杀
+default 默认 
+clean 干净利落
+execute 战术执行
+one way smoke 单向烟
+dry peek	干拉 
+whiff	马枪 
+I whiffed	我马了
+collapse	崩盘
